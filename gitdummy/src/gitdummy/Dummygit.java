@@ -4,6 +4,7 @@ public class Dummygit {
 
 	public static void main(String[] args) {
 		System.out.println("hi amma");
+		System.out.println("hello beta");
 
 	}
 
